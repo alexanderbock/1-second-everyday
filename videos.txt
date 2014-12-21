@@ -1,0 +1,11 @@
+# Example video settings file. Each line is a configuration for a single video
+# Each line has to start with the date of the video in the format YY-MM-DD (for example
+# 13-12-06
+# The rest of the settings are:
+# Start time of the video in the format HH:MM:SS (for example 00:00:05)
+# transpose: Rotate the video by 90 degrees if it was shot in portrait mode
+# rotate: Rotating the video by 180 degrees if it was shot with the camera upside down
+# darktext: Change the color of the text overlay from white to black
+# Each setting has to be separated with a TAB (\t)
+# An example for a full line is:
+#13-12-09	rotate	darktext
